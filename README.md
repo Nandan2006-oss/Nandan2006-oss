@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&lines=Hi+there+👋+I'm+Nandan+Nalwade+ )](https://git.io/typing-svg)
-## Hi+there+👋+I'm+Nandan+Nalwade+ 
 
 💻 **Computer Science Student**  
 
@@ -23,5 +22,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandan2006-oss&layout=compact&theme=radical)
 
 ## Contact me on
-- LinkedIn: https://www.linkedin.com/in/nandan-nalwade-944b52318/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- LinkedIn: ![profile](https://www.linkedin.com/in/nandan-nalwade-944b52318/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Email: nandannalwade@gmail.com
