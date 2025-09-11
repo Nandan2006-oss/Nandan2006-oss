@@ -22,5 +22,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandan2006-oss&layout=compact&theme=radical)
 
 ## Contact me on
-- LinkedIn: ![profile](https://www.linkedin.com/in/nandan-nalwade-944b52318/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- LinkedIn: [profile](https://www.linkedin.com/in/nandan-nalwade-944b52318/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Email: nandannalwade@gmail.com
