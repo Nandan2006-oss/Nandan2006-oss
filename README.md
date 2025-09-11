@@ -1,4 +1,5 @@
-## Hi there 👋 I'm Nandan Nalwade
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&lines=Hi+there+👋+I'm+Nandan+Nalwade+ )](https://git.io/typing-svg)
+## Hi+there+👋+I'm+Nandan+Nalwade+ 
 
 💻 **Computer Science Student**  
 
@@ -21,6 +22,6 @@
 ## 💻 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandan2006-oss&layout=compact&theme=radical)
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nandan2006-oss)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/nandan-nalwade-944b52318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandannalwade@gmail.com)
+## Contact me on
+- LinkedIn: https://www.linkedin.com/in/nandan-nalwade-944b52318/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- Email: nandannalwade@gmail.com
