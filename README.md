@@ -12,10 +12,15 @@
 - **Currently Learning:** Web development, OS fundamentals, embedded systems basics  
 
 ---
-
-
+## 📊 GitHub Stats
 ![Nandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nandan2006-oss&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandan2006-oss&layout=compact)
+
+## 🔥 Streaks
+![GitHub Streak](https://streak-stats.demolab.com/?user=Nandan2006-oss&theme=radical)
+
+## 💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandan2006-oss&layout=compact&theme=radical)
+
 
 <!--
 **Nandan2006-oss/Nandan2006-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
