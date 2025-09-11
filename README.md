@@ -14,8 +14,8 @@
 ---
 
 
-![Nandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandan-nalwade&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandan-nalwade&layout=compact)
+![Nandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nandan2006-oss&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandan2006-oss&layout=compact)
 
 <!--
 **Nandan2006-oss/Nandan2006-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
