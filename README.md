@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&lines=Hi+I'm+Nandan+Nalwade;Computer+Science+Student;C++%2C+Python%2C+Web+Dev+Enthusiast)](https://git.io/typing-svg)
 ## Hi there 👋 I'm Nandan Nalwade
 
 💻 **Computer Science Student**  
@@ -22,18 +21,6 @@
 ## 💻 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandan2006-oss&layout=compact&theme=radical)
 
-
-<!--
-**Nandan2006-oss/Nandan2006-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nandan2006-oss)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/nandan-nalwade-944b52318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandannalwade@gmail.com)
