@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- Programming Languages -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Programming_Language.svg" width="45" height="45" alt="C"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="45" height="45" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
