@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&center=true&repeat=false&lines=...+Hi+there+👋+I'm+Nandan+Nalwade+..." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&center=true&repeat=false&lines=...+ Hi+there+👋+I'm+Nandan+Nalwade +..." />
 </p>
 
 <h3 align="center">A passionate CS student exploring coding & projects 🚀</h3>
