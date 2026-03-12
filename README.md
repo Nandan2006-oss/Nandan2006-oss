@@ -29,7 +29,7 @@
 
 
 <p align="center">
-  <img src="https://www.reddit.com/r/bleach/comments/rjgvo3/hi_there_made_two_gifs_of_ichigo_from_the_tybw/"/>
+  <img src="Tybw Bankai GIF.gif" width="400"/>
 </p>
 ---
 ## 📊 GitHub Stats
