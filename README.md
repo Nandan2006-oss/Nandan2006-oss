@@ -29,7 +29,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://www.reddit.com/r/bleach/comments/rjgvo3/hi_there_made_two_gifs_of_ichigo_from_the_tybw/"/>
 </p>
 ---
 ## 📊 GitHub Stats
