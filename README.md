@@ -4,11 +4,17 @@
 
 <h3 align="center">A passionate CS student exploring coding & projects 🚀</h3>
 
-## 🌱 About Me
+About Me
 
-- 🎓 I’m currently learning **Web Development (HTML, CSS, JS)** through *The Odin Project*  
-- 🔭 Exploring **C, C++, Python** for projects and hackathons   
-- 🚀 Building small apps, games, and GUIs (Tkinter, Qt) to sharpen my fundamentals  
+Computer Science student interested in systems, automation, and practical programming
+
+Currently learning Web Development (HTML, CSS, JavaScript) through The Odin Project
+
+Building small tools and experiments using Python and C++
+
+Exploring APIs, networking fundamentals, and system-level concepts
+
+Interested in understanding how software works under the hood rather than only using frameworks 
 
 ## 🛠️ Tech Stack
 
@@ -27,10 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
 </p>
 
-
-<p align="center">
-  <img src="Tybw Bankai GIF.gif" width="400"/>
-</p>
 ---
 ## 📊 GitHub Stats
 <p align="center">
