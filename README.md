@@ -48,10 +48,10 @@
 
 ## 📊 GitHub Stats <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nandan2006-oss&show_icons=true&theme=radical" height="160"/> <img src="https://streak-stats.demolab.com/?user=Nandan2006-oss&theme=radical" height="160"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandan2006-oss&layout=compact&theme=radical" height="160"/> </p>
 
-## 🐍 Contribution Snake
+## 🟩 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/Nandan2006-oss/Nandan2006-oss/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandan2006-oss&theme=github-compact" />
 </p>
 
 📫 Connect with Me
