@@ -46,7 +46,7 @@
 
 ---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nandan2006-oss&show_icons=true&theme=radical" height="160"/> <img src="https://streak-stats.demolab.com/?user=Nandan2006-oss&theme=radical" height="160"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandan2006-oss&layout=compact&theme=radical" height="160"/> </p>
+## 📊 GitHub Stats <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nandan2006-oss&show_icons=true&theme=radical" height="160"/> <img src="https://streak-stats.demolab.com/?user=Nandan2006-oss&theme=radical" height="160"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandan2006-oss&layout=compact&theme=radical" height="160"/> </p>
 
 📫 Connect with Me
 💼 LinkedIn: https://www.linkedin.com/in/nandan-nalwade-944b52318/
