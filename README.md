@@ -53,6 +53,8 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandan2006-oss&theme=github-compact" />
 </p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandan2006-oss&theme=react-dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandan2006-oss&theme=minimal" />
 
 📫 Connect with Me
 💼 LinkedIn: https://www.linkedin.com/in/nandan-nalwade-944b52318/
